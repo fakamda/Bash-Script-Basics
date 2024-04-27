@@ -1,0 +1,16 @@
+total 20
+drwxr-xr-x 1 facun 197609   0 Apr 26 19:39 .
+drwxr-xr-x 1 facun 197609   0 Apr 20 03:48 ..
+-rwxr-xr-x 1 facun 197609 176 Apr 26 02:06 arguments.sh
+-rwxr-xr-x 1 facun 197609 262 Apr 20 06:16 case.sh
+-rwxr-xr-x 1 facun 197609 436 Apr 20 04:11 conditionals.sh
+-rwxr-xr-x 1 facun 197609 134 Apr 26 01:54 continue_break.sh
+-rw-r--r-- 1 facun 197609   0 Apr 26 19:41 file.txt
+-rwxr-xr-x 1 facun 197609 267 Apr 20 03:53 helloword.sh
+-rw-r--r-- 1 facun 197609  34 Apr 20 03:53 hola.txt
+-rwxr-xr-x 1 facun 197609 195 Apr 20 05:04 logical_operator.sh
+-rw-r--r-- 1 facun 197609 477 Apr 26 01:34 loops.sh
+-rwxr-xr-x 1 facun 197609 211 Apr 20 03:55 output.sh
+-rwxr-xr-x 1 facun 197609 175 Apr 20 05:02 read.sh
+-rw-r--r-- 1 facun 197609  34 Apr 26 19:41 stderr_stdout.sh
+-rwxr-xr-x 1 facun 197609 137 Apr 26 19:33 stdin.sh
